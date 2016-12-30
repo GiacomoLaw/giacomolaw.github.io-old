@@ -18,3 +18,10 @@ body {
     display: block;
     margin: 0 auto;
 }
+
+ .blue-border {
+    border-color: #3498db;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 50%;
+  }
