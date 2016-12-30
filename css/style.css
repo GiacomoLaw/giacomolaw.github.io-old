@@ -14,3 +14,7 @@ body {
 .padding {
 	margin: 10px;
 }
+
+.middle {
+	vertical-align: baseline;
+}
