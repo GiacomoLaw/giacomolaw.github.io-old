@@ -2,6 +2,10 @@ body {
 	background-color: #5ba545;
 }
 
+footer {
+	background-color: white;
+}
+
 .front {
   max-width: 90%;
   height: 1020px;
