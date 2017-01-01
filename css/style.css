@@ -4,11 +4,12 @@ body {
 
 footer {
 	background-color: white;
+	margin-bottom: 0px;
 }
 
 .front {
   max-width: 90%;
-  height: 500px;
+  height: 350px;
   margin: 30px auto 0 auto;
   border-radius: 15px;
   background-color: white;
