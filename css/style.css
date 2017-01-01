@@ -2,10 +2,6 @@ body {
 	background-color: #5ba545;
 }
 
-footer {
-	background-color: white;
-}
-
 .front {
   max-width: 90%;
   height: 1020px;
@@ -42,4 +38,14 @@ footer {
 #right {
     text-align: right;
     margin: 10px;
+}
+
+#footer{
+    position:fixed;
+    height:50px;
+    background-color: white;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    margin-bottom:0px;
 }
