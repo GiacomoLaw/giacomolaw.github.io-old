@@ -2,6 +2,10 @@ body {
 	background-color: #5ba545;
 }
 
+footer {
+	background-color: white;
+}
+
 .front {
   max-width: 90%;
   height: 1020px;
@@ -40,6 +44,7 @@ body {
     margin: 10px;
 }
 
+/*
 #footer{
     position:fixed;
     height:50px;
@@ -48,4 +53,4 @@ body {
     left:0px;
     right:0px;
     margin-bottom:0px;
-}
+} */
