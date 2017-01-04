@@ -8,7 +8,7 @@ footer {
 }
 
 .front {
-  max-width: 90%;
+  max-width: 70%;
   height: 490px;
   margin: 30px auto 0 auto;
   border-radius: 15px;
@@ -16,7 +16,7 @@ footer {
 }
 
 .front-port {
-  max-width: 90%;
+  max-width: 70%;
   height: 700px;
   margin: 30px auto 0 auto;
   border-radius: 15px;
