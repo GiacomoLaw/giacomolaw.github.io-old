@@ -59,3 +59,7 @@ footer {
     text-align: right;
     margin: 10px;
 }
+
+input {
+	background-color: #5ba545;
+}
