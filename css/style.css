@@ -6,11 +6,6 @@ body {
     background: linear-gradient(to bottom right, rgb(91,165,69), rgb(52, 79, 45)); /* Standard syntax (must be last) */
 }
 
-footer {
-	background-color: white;
-	margin-bottom: 0px;
-}
-
 .front {
   max-width: 70%;
   height: 490px;
