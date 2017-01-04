@@ -1,4 +1,4 @@
-body {
+body, footer {
 	background: red; /* For browsers that do not support gradients */    
     background: -webkit-linear-gradient(left top, rgb(91,165,69), rgb(52, 79, 45)); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(bottom right, rgb(91,165,69), rgb(52, 79, 45)); /* For Opera 11.1 to 12.0 */
