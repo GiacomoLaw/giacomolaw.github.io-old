@@ -68,9 +68,19 @@ footer {
     margin: 10px;
 }
 
-input {
+/* input {
 	background-color: #5ba545;
 	color: #fff;
         background-color: #5ba545;
         border-color: #5ba545;
+}
+*/
+
+input {
+	padding:5px 15px; 
+	background:#5ba545; 
+	border:0 none;
+	cursor:pointer;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
 }
