@@ -24,7 +24,6 @@ footer {
 
 .front {
   max-width: 70%;
-  height: 470px;
   margin: 30px auto 0 auto;
   border-radius: 15px;
   background-color: white;
@@ -32,7 +31,6 @@ footer {
 
 .front-port {
   max-width: 70%;
-  height: 750px;
   margin: 30px auto 0 auto;
   border-radius: 15px;
   background-color: white;
