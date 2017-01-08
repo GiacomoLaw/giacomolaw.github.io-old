@@ -23,6 +23,7 @@ footer {
 }
 
 .front {
+  display: inline-block;
   max-width: 70%;
   height: 470px;
   margin: 30px auto 0 auto;
@@ -31,6 +32,7 @@ footer {
 }
 
 .front-port {
+  display: inline-block;
   max-width: 70%;
   height: 750px;
   margin: 30px auto 0 auto;
