@@ -119,3 +119,8 @@ button {
 .mobile-header {
   font-size: 37px;
 }
+
+.mobile-button {
+  width: 212px;
+  height: 70px;
+}
