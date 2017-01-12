@@ -120,11 +120,8 @@ button {
   font-size: 37px;
 }
 
-.mobile-button {
+.mobile-button .fa {
   width: 262px;
   height: 120px;
-}
-
-.mobilei .fa {
-  font-size: 20px;
+  font-size: 50px;
 }
