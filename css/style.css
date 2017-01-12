@@ -111,3 +111,7 @@ button {
   border-radius: 15px;
   background-color: white;
 }
+
+.mobile-font {
+  font-size: 24px;
+}
