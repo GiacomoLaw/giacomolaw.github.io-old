@@ -85,6 +85,10 @@ button {
 	color: #fff;
 }
 
+button:hover {
+    background-color: #4c7a3e;
+}
+
 #outer
 {
     width:100%;
