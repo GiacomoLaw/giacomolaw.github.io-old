@@ -1,3 +1,3 @@
 if(window.innerHeight > window.innerWidth){
-    window.location = "https://giacomolaw.github.io/portfolio.html";
+    window.location = "https://giacomolaw.github.io/portfolio-m.html";
 }
