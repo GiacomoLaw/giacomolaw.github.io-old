@@ -27,6 +27,7 @@ footer {
   margin: 30px auto 0 auto;
   border-radius: 15px;
   background-color: white;
+  min-height: 458px;
 }
 
 .front-port {
@@ -85,6 +86,10 @@ button {
 	color: #fff;
 }
 
+button:hover {
+    background-color: #4c7a3e;
+}
+
 #outer
 {
     width:100%;
@@ -107,7 +112,7 @@ button {
 }
 
 .front-port-mobile {
-  max-width: 70%;
+  max-width: 90%;
   margin: 30px auto 0 auto;
   border-radius: 15px;
   background-color: white;
